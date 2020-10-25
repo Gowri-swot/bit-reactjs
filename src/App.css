@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.main {
+  margin-left: 3%; /* Same as the width of the sidenav */
+}
+.pageCss {
+  margin:2%
+}

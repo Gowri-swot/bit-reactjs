@@ -1,0 +1,16 @@
+.navbox {
+    flex-grow: 1;
+  }
+ .appMenu{
+    background-color: #f6f5f5 !important;
+ }
+  .titleClass {
+    flex-grow: 1;
+    color:black;
+    font-family: Aller Typo !important;
+    font-size: 20px !important;
+  }
+  .MuiSvgIcon-root{
+    font-size: 2.5rem !important;
+    color: #818181;
+  }
